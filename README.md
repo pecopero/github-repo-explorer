@@ -57,16 +57,6 @@ You can access the live demo of the application [here](https://pecopero.github.i
    yarn start
    ```
 
-## Mobile Dropdown Feature
-
-This application features an enhanced mobile experience with a dropdown repository view:
-
-- On mobile devices (screen width <768px), repositories appear as dropdowns under each username
-- Click on a username to expand/collapse its repository list
-- Smooth animations when expanding/collapsing the dropdown
-- Maximum height with automatic overflow scrolling
-- Repository items have hover effects and animations
-
 4. Open your browser and navigate to `http://localhost:3000`
 
 ## Usage
@@ -90,13 +80,15 @@ yarn deploy
 
 Please note that the GitHub API has rate limits. For unauthenticated requests, the rate limit is 60 requests per hour. For more information, check the [GitHub API documentation](https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting).
 
-## Future Improvements
+## Mobile Dropdown Feature
 
-- Add pagination for repositories
-- Implement GitHub authentication to increase API rate limits
-- Add more repository details
-- Add unit and integration tests
-- Implement repository filtering and sorting options
+This application features an enhanced mobile experience with a dropdown repository view:
+
+- On mobile devices (screen width <768px), repositories appear as dropdowns under each username
+- Click on a username to expand/collapse its repository list
+- Smooth animations when expanding/collapsing the dropdown
+- Maximum height with automatic overflow scrolling
+- Repository items have hover effects and animations
 
 ## License
 
