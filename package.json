@@ -2,7 +2,7 @@
   "name": "github-repo-explorer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yourusername.github.io/github-repo-explorer",
+  "homepage": "https://pecopero.github.io/github-repo-explorer",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

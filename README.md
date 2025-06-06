@@ -2,9 +2,12 @@
 
 A React application built with TypeScript that integrates with GitHub's API to search for users and display their repositories. This project was created to showcase React, TypeScript, and GitHub API integration, with an enhanced focus on mobile responsiveness and UI animations.
 
+![Main page](screenshots/mainpage.png)
+![Mobile dropdown](screenshots/dropdown.png)
+
 ## Live Demo
 
-You can access the live demo of the application [here](#) (Update with your GitHub Pages URL once deployed).
+You can access the live demo of the application [here](https://pecopero.github.io/github-repo-explorer/).
 
 ## Features
 
