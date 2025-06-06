@@ -64,8 +64,6 @@ This application features an enhanced mobile experience with a dropdown reposito
 - On mobile devices (screen width <768px), repositories appear as dropdowns under each username
 - Click on a username to expand/collapse its repository list
 - Smooth animations when expanding/collapsing the dropdown
-- Custom-styled scrollbar for long repository lists
-- "Scroll to see more" indicator for better user experience
 - Maximum height with automatic overflow scrolling
 - Repository items have hover effects and animations
 
